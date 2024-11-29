@@ -1,2 +1,4 @@
-# weather-app
-This is a weather app developed in HTML, CSS and JS
+# Weather App
+
+
+Developed Shafiq, Sherinah, Alpha, and Shafik
